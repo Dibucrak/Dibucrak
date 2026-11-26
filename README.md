@@ -10,7 +10,7 @@
 
 ### 🚀 Featured Work
 - **[Riff-Forge](https://github.com/Dibucrak/Riff-Forge)** — Cross-platform Kotlin Multiplatform (KMP) app for guitarists targeting Android & iOS, featuring a tuner, song viewer, chord/scale diagrams, ear training, Circle of Fifths, and Firebase sync.
-- **GDG Arequipa DevFest Hackathon** — Built and deployed a featured team application under hackathon constraints.
+- **[Free-Hand](https://github.com/Dibucrak/Free-Hand)** — Featured GDG Arequipa DevFest hackathon app built with Kotlin Multiplatform (KMP) and MediaPipe/OpenCV for hands-free presentation and slide control using real-time hand gesture tracking.
 
 ### ☁️ Certifications
 - **4x AWS Academy Graduate:** Cloud Architecting · Cloud Developing · Cloud Foundations · Cloud Security Foundations
